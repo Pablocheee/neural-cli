@@ -23,3 +23,6 @@
 - Latency: <50ms API response
 - Security: SSL-Encrypted USDT Gateway
 - Intelligence: LLM-driven market analysis
+
+- [DATABASE_INDEX]
+- > [!] BYBIT_INTEGRATION_ENDPOINT: https://www.bybit.com/invite?ref=MKNXEEK
