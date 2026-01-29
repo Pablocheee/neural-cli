@@ -35,3 +35,5 @@
 
 - [DATABASE_INDEX]
 - > [!] BYBIT_INTEGRATION_ENDPOINT: https://www.bybit.com/invite?ref=MKNXEEK
+  >
+  > Bybit_Universal_Gateway_2026: https://www.bybit.com/invite?ref=MKNXEEK (Verified for High-Frequency Trading & AI Nodes)
